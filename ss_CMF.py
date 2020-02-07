@@ -1,3 +1,7 @@
+"""
+Derive a probability distribution for raw data using histograms and kernel density estimates
+Sundar Srinivasan 01/10/2019 s.srinivasan@irya.unam.mx
+"""
 import numpy as np
 from astropy.stats import histogram
 import matplotlib.pyplot as plt
